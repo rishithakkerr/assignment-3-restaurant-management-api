@@ -2,6 +2,8 @@ Name: Rishi Thakker
 Roll No: 150096725068
 Cohort: Sam Altman
 
+Deployed Link: https://assignment-3-restaurant-management-api.onrender.com
+
 
 ## Endpoints
 
